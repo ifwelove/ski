@@ -8,6 +8,7 @@ import {
   DashboardOutlined 
 } from '@ant-design/icons';
 import { UserInputs, BoardRecommendation, RidingStyle } from '../types/snowboard';
+import 'antd/dist/antd.css';  // 使用这个替代 antd/dist/reset.css
 
 const { Title, Text } = Typography;
 
