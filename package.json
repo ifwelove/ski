@@ -18,14 +18,14 @@
     "express": "^4.17.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.9.5",
-    "scheduler": "^0.25.0"
+    "react-scripts": "^3.0.1",
+    "scheduler": "^0.25.0",
+    "typescript": "^4.9.5"
   },
   "devDependencies": {
+    "@types/prop-types": "^15.7.14",
     "@types/react": "^19.0.12",
-    "@types/react-dom": "^19.0.4",
-    "@types/prop-types": "^15.7.14"
+    "@types/react-dom": "^19.0.4"
   },
   "browserslist": {
     "production": [
