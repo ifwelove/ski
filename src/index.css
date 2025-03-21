@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/npm/antd@5.24.4/dist/reset.css');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f0f2f5;
+} 
