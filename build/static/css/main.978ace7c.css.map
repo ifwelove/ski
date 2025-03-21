@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.978ace7c.css","mappings":"qEAEA,KAGE,kBAAmB,CAFnB,QAAS,CACT,SAEF","sources":["index.css"],"sourcesContent":["@import url('https://cdn.jsdelivr.net/npm/antd@5.24.4/dist/reset.css');\n\nbody {\n  margin: 0;\n  padding: 0;\n  background: #f0f2f5;\n} "],"names":[],"sourceRoot":""}
