@@ -10,7 +10,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm run build",
+    "heroku-prebuild": "npm config set package-lock false"
   },
   "dependencies": {
     "@ant-design/icons": "^5.0.0",
