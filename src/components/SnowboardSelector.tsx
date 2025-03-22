@@ -102,12 +102,12 @@ const SnowboardSelector: React.FC = () => {
           >
             <Form.Item
               name="region"
-              label={<><EnvironmentOutlined /> 選擇地區</>}
-              rules={[{ required: true, message: '請選擇地區' }]}
+              label={<><EnvironmentOutlined /> 計算方式</>}
+              rules={[{ required: true, message: '請選擇計算方式' }]}
             >
               <Select>
-                <Select.Option value="japan">日本（以身高為主）</Select.Option>
-                <Select.Option value="taiwan">台灣（以體重為主）</Select.Option>
+                <Select.Option value="japan">以身高為主</Select.Option>
+                <Select.Option value="taiwan">以體重為主</Select.Option>
               </Select>
             </Form.Item>
 
